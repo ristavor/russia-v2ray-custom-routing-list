@@ -1,6 +1,6 @@
 {
   "version": "RUv1",
-  "routing_items": [
+  "routingItems": [
     {
       "remarks": "\u0412\u0441\u0451",
       "url": "https://raw.githubusercontent.com/runetfreedom/russia-v2ray-custom-routing-list/refs/heads/main/all.json"
