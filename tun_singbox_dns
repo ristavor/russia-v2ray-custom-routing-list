@@ -20,7 +20,7 @@
   "rules": [
     {
       "domain": [
-        "raw.githubusercontent.com"
+        "cdn.jsdelivr.net"
       ],
       "server": "local"
     },

@@ -1,5 +1,14 @@
 [
   {
+    "port":"",
+    "outboundTag":"direct",
+    "domain":[
+      "cdn.jsdelivr.net"
+    ],
+    "enabled":true,
+    "remarks":"\u041A\u043E\u043D\u0444\u0438\u0433\u0438 \u043D\u0430\u043F\u0440\u044F\u043C\u0443\u044E"
+  },
+  {
     "outboundTag":"direct",
     "protocol":[
       "bittorrent"
