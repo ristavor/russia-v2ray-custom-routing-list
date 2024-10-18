@@ -20,7 +20,7 @@
   "rules": [
     {
       "domain": [
-        "rdn.jsdelivr.net"
+        "cdn.jsdelivr.net"
       ],
       "server": "local"
     },
