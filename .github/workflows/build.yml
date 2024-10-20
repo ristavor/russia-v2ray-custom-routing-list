@@ -17,5 +17,5 @@ jobs:
         run: |
           for file in $(ls); do
             echo "Purging $file"          
-            curl -i "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/${file}"
+            #curl -i "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/${file}"
           done

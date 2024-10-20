@@ -19,12 +19,6 @@
   ],
   "rules": [
     {
-      "domain": [
-        "cdn.jsdelivr.net"
-      ],
-      "server": "local"
-    },
-    {
       "rule_set": [
         "geosite-category-ads-all"
       ],
