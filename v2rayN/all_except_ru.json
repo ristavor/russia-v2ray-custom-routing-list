@@ -2,15 +2,6 @@
   {
     "port":"",
     "outboundTag":"direct",
-    "domain":[
-      "cdn.jsdelivr.net"
-    ],
-    "enabled":true,
-    "remarks":"\u041A\u043E\u043D\u0444\u0438\u0433\u0438 \u043D\u0430\u043F\u0440\u044F\u043C\u0443\u044E"
-  },
-  {
-    "port":"",
-    "outboundTag":"direct",
     "protocol":[
       "bittorrent"
     ],
@@ -44,8 +35,8 @@
   },
   {
     "outboundTag":"direct",
-    "domain":[
-      "geosite:ru-available-only-inside"
+    "ip":[
+      "geoip:ru"
     ],
     "enabled":true,
     "remarks":"\u0414\u043E\u0441\u0442\u0443\u043F\u043D\u044B\u0435 \u0442\u043E\u043B\u044C\u043A\u043E \u0432 \u0420\u043E\u0441\u0441\u0438\u0438 \u043D\u0430\u043F\u0440\u044F\u043C\u0443\u044E"
